@@ -1,0 +1,35 @@
+...........Yes 50
+...........Totally 50
+#
+#
+# ----------------------------------------
+# MODIFY ABOVE, SEE BELOW FOR INSTRUCTIONS
+#
+# DO NOT REMOVE THE '#'s
+# ----------------------------------------
+#
+# in.txt, used for ConsoleWheel
+#
+# for each choice, put on each line
+#
+#      '<choice> < % chance >'
+#
+#             example
+#
+# red 30
+# green 50
+# blue 20
+#
+# this means that the program will pick
+# red with a 30% chance, green 50%, etc.
+#
+# if the values do not add up to 100,
+# then a selection could not be made
+#
+# - no spaces in choices
+# - cannot add to be over 100
+#
+#
+
+
+
